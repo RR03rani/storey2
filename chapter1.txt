@@ -1,3 +1,6 @@
 hey this is my first storey
 hoe to add branches and merging in github 
 so for thsigo to your folder wjhere u want to merge
+same thinfgs here done also go to create a master branch here is main branch and then scrreate a file and  edit it and commit some messages for this chapter and then commit command
+this makes a bmarster branch file now we have to go in to make branch go and make branches and edit on the file as all  file copied from master branch 
+always check where u r commiting
