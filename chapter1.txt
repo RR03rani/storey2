@@ -1,0 +1,3 @@
+hey this is my first storey
+hoe to add branches and merging in github 
+so for thsigo to your folder wjhere u want to merge
